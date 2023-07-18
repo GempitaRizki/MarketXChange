@@ -32,10 +32,15 @@ composer require filament/notifications
 ### More
 For more details, please check the following [link](https://filamentphp.com/)
 
-# Screenshot 🤔
+# Screenshot 
 
-![Screenshot 2023-07-18 192446](https://github.com/GempitaRizki/MarketXChange/blob/main/assets/38187462/33a2d465-44fb-48f2-bf4b-14aaa1e48d6d.png){: width="400px"}
+![Screenshot 2023-07-18 192446](https://github.com/GempitaRizki/MarketXChange/assets/38187462/bca14d3a-234a-4b42-a001-e7f7137e632b)
 
-![keranjang](https://github.com/GempitaRizki/MarketXChange/blob/main/assets/38187462/eb9bf58f-ff52-43f3-8b45-8bb97e8a3631.png){: width="400px"}
+
+<h3>more ? 🤔 🤔 </h3>
+
+![keranjang](https://github.com/GempitaRizki/MarketXChange/assets/38187462/9c0370b9-3530-4e2e-9188-3a4ecd4e3c42)
+
+
 
 
